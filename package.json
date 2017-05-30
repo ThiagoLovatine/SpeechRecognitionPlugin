@@ -1,0 +1,33 @@
+{
+  "name": "SpeechRecognition",
+  "version": "0.1.2",
+  "description": "Cordova Speech Recognition Plugin",
+  "cordova": {
+    "id": "org.apache.cordova.speech.speechrecognition",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdonst/SpeechRecognitionPlugin"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macdonst/SpeechRecognitionPlugin/issues"
+  },
+  "homepage": "https://github.com/macdonst/SpeechRecognitionPlugin/wazelink"
+}
